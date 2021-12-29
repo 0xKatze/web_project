@@ -1,7 +1,7 @@
 var canvas = document.getElementById("the-game");
 var context = canvas.getContext("2d");
 
-document.onload = alert("1");
+document.onload = alert("測試");
 
 game = {
   
